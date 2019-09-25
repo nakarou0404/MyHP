@@ -15,4 +15,21 @@ line-height: 150%;
 A:link, A:visited, A:active, A:hover { color: #30a966; }
 A:link, A:visited { text-decoration: none; }
 A:hover, A:active { text-decoration: none; color: #444444; }
-h1{color: green;}
+h1{
+    color: green;
+    font-size: 40px;
+    font-family: serif;
+    background-color: darkorange;
+}
+.selected{
+    color: gold;
+}
+.header{
+    background-color: yellow;
+}
+.body{
+    background-color: #30a966;
+}
+.footer{
+    background-color: #999999;
+}
