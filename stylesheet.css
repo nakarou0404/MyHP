@@ -17,7 +17,7 @@ A:link, A:visited { text-decoration: none; }
 A:hover, A:active { text-decoration: none; color: #444444; }
 h1{
     color: green;
-    font-size: 40px;
+  
     font-family: serif;
     background-color: darkorange;
 }
@@ -32,4 +32,12 @@ h1{
 }
 .footer{
     background-color: #999999;
+}
+.header-logo{
+    padding: 20px;
+    font-size: 20px;
+}
+.header-otoiawase{
+    padding: 22px;
+    float: left;
 }
