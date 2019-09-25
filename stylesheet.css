@@ -15,3 +15,4 @@ line-height: 150%;
 A:link, A:visited, A:active, A:hover { color: #30a966; }
 A:link, A:visited { text-decoration: none; }
 A:hover, A:active { text-decoration: none; color: #444444; }
+h1{color: green;}
