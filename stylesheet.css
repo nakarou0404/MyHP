@@ -36,8 +36,9 @@ h1{
 .header-logo{
     padding: 20px;
     font-size: 20px;
-    float
+    float:left;
 }
+
 .header-otoiawase{
     padding: 22px;
     float: left;
