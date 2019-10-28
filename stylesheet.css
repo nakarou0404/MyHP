@@ -19,10 +19,11 @@ h1{
    
 }
 .body{
+    height: 900px;
     background-color: #50fc9d;
 }
 .footer{
-    height: 150px;
+    height: 40px;
     background-color: rgb(255, 67, 224);
 }
 .header-logo{
@@ -31,7 +32,7 @@ h1{
 
 .header-otoiawase{
     display: inline-block;
-    padding: 30px;
+    
 }
 .footer-logo{
     font-size:30px;
@@ -40,7 +41,7 @@ h1{
 .footer-list{
     font-size: 10px;
     float: right;
-    padding: 10px;
+    
 }
 span{
     color: darkslategray
