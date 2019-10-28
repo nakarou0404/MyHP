@@ -46,3 +46,9 @@ h1{
 span{
     color: darkslategray
 }
+.square2 {
+    width: 200px;
+    height: 200px;
+    background: rgb(238, 44, 44);
+    border-radius: 40px 0 40px 0; /*左上,右下に40px*/
+ }
