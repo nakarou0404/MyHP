@@ -1,5 +1,5 @@
 
-A:link, A:visited, A:active, A:hover { color: #30a966; }
+A:link, A:visited, A:active, A:hover { color: #3d4fe9; }
 A:link, A:visited { text-decoration: none; }
 A:hover, A:active { text-decoration: none; color: #444444; }
 h1{
@@ -10,20 +10,20 @@ h1{
 }
 .selected{
     
-    color: gold;
+    color: rgb(2, 2, 2);
 }
 .header{
-    padding: 10px;
-    background-color: yellow;
+    
+    background-color: rgba(199, 255, 216, 0.5);
     height: 70px;
    
 }
 .body{
-    background-color: #30a966;
+    background-color: #50fc9d;
 }
 .footer{
     height: 150px;
-    background-color: yellowgreen;
+    background-color: rgb(255, 67, 224);
 }
 .header-logo{
     float: left;
@@ -38,7 +38,7 @@ h1{
     float: left;
 }
 .footer-list{
-    font-size: 20px;
+    font-size: 10px;
     float: right;
     padding: 10px;
 }
