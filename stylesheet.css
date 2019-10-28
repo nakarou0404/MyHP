@@ -9,7 +9,7 @@ h1{
     
 }
 .selected{
-    
+    float: left;
     color: rgb(2, 2, 2);
 }
 .header{
